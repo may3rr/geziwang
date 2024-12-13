@@ -2,6 +2,12 @@
 
 一个用于创建和管理活动的全栈应用程序。用户可以注册账号、创建活动、查看活动详情并管理个人资料。
 
+## 应用截图
+
+![活动列表页面](screenshot/home.png)
+![活动详情页面](/screenshot/event.png)
+![个人资料页面](/screenshot/homepage.png)
+
 ## 技术栈
 
 前端使用 React + TypeScript 开发，后端采用 Node.js + Express 构建。
@@ -62,11 +68,7 @@ npm run dev
 - 活动管理：创建活动、查看活动列表、活动详情
 - 权限控制：基于 JWT 的用户认证
 
-## 开发指南
 
-- 前端开发端口：3000
-- 后端API端口：5000
-- API文档：http://localhost:5000/api-docs
 
 ## 部署说明
 
